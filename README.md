@@ -28,6 +28,11 @@
 <div>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+<br>
+
+<!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riri0602)](https://github.com/anuraghazra/github-readme-stats) --->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riri0602&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 📞 Contact
 <div style="display:flex; flex-direction:row;">
