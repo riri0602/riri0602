@@ -21,10 +21,7 @@
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
 <img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
-<img src="https://img.shields.io/badge/visual studio-5C2D91?style=for-the-badge&logo=visual studio&logoColor=white">
 </div>
 
 <div>
